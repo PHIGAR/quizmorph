@@ -1,0 +1,73 @@
+{
+  "nav": {
+    "explore": "Explore",
+    "dashboard": "Dashboard",
+    "create": "Create Quiz",
+    "login": "Sign In",
+    "register": "Sign Up",
+    "profile": "My Profile",
+    "logout": "Sign Out"
+  },
+  "home": {
+    "heroTitle": "What are you exactly?",
+    "heroDesc": "Create, play, and share highly interactive visual personality quizzes. Build beautiful experiences in seconds.",
+    "ctaPlay": "Play Random Quiz",
+    "ctaCreate": "Create Your Own",
+    "trending": "Trending Creators"
+  },
+  "auth": {
+    "welcomeBack": "Welcome Back",
+    "loginDesc": "Sign in to continue building your personality experiences.",
+    "join": "Join QuizMorph",
+    "registerDesc": "Create an account to start publishing viral quizzes today.",
+    "email": "Email Address",
+    "username": "Username",
+    "password": "Password",
+    "noAccount": "Don't have an account?",
+    "haveAccount": "Already have an account?"
+  },
+  "dashboard": {
+    "welcome": "Welcome back",
+    "hubDesc": "Your creator hub. Manage your interactive content here.",
+    "createNew": "Create New Quiz",
+    "totalPlays": "Total Plays",
+    "published": "Published",
+    "drafts": "Drafts",
+    "allQuizzes": "All Quizzes",
+    "search": "Search your quizzes...",
+    "noContent": "No content yet",
+    "noContentDesc": "Create your first highly engaging visual quiz and start sharing it.",
+    "btnEdit": "Edit",
+    "btnShare": "Share Link"
+  },
+  "explore": {
+    "title": "Explore the multi-verse of personalities",
+    "desc": "Discover trending quizzes built by the community.",
+    "search": "Search quizzes by title or keyword...",
+    "category": "Category Filter",
+    "all": "All",
+    "personality": "Personality",
+    "fun": "Fun",
+    "career": "Career",
+    "love": "Love"
+  },
+  "profile": {
+    "title": "Creator Profile",
+    "desc": "Manage your public presence and bio details.",
+    "username": "Username",
+    "bio": "Creator Bio",
+    "bioPlaceholder": "Tell your players what kind of quizzes you make...",
+    "avatar": "Avatar Image URL",
+    "save": "Save Changes",
+    "saving": "Saving...",
+    "success": "Profile updated successfully!"
+  },
+  "modal": {
+    "shareTitle": "Share with friends",
+    "shareApps": "Share to Apps...",
+    "copyLink": "Copy Link",
+    "linkCopied": "Link Copied!",
+    "saveImage": "Save as Image",
+    "generating": "Generating Image..."
+  }
+}
